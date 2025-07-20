@@ -5,5 +5,4 @@ jobs:
   build:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@v0.2
     with:
-      snippets: |
-        - mouse
+      config: config/pointing.conf
