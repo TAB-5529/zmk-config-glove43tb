@@ -32,8 +32,8 @@ layers:
   - ;
   - N
   - M
-  - ','
-  - .
+  - '&mkp MB1'
+  - '&mkp MB2'
   - /
   - LCTRL
   - LEFT WIN
@@ -79,7 +79,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F11
-  - {t: ▽, type: trans}
+  - {t: default, h: toggle}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
