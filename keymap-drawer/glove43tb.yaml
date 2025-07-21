@@ -38,9 +38,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: LANG ZENKAKUHANKAKU, h: toggle}
   - {t: INT HENKAN, h: FUNCTION}
-  - {t: '&to_layer_0 SPACE', h: NUM}
+  - {t: INT MUHENKAN, h: NUM}
+  - {t: '&to_layer_0 SPACE', h: ARROW}
   - ENTER
   - BACKSPACE
   - {t: ARROW, h: toggle}
@@ -82,8 +82,8 @@ layers:
   - {t: default, h: toggle}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ENTER
   - BACKSPACE
@@ -127,8 +127,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '|'
@@ -172,7 +172,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: default, h: toggle}
