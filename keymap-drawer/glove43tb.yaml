@@ -43,7 +43,7 @@ layers:
   - {t: '&to_layer_0 SPACE', h: ARROW}
   - ENTER
   - BACKSPACE
-  - DEL
+  - {t: ARROW, h: toggle}
   FUNCTION:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -138,35 +138,35 @@ layers:
   - UP ARROW
   - Ctl+TAB
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - '&mkp MB3'
+  - ''
+  - ''
   - HOME
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
   - END
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - '&mkp MB1'
+  - '&mkp MB2'
+  - ''
   - LEFT SHIFT
   - Gui+Sft+LEFT ARROW
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -175,7 +175,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: default, h: toggle}
   MOUSE:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
