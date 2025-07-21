@@ -3,19 +3,19 @@ layers:
   default:
   - F
   - Q
-  - L
-  - U
   - Y
+  - O
+  - E
   - G
   - J
   - D
   - W
   - B
   - TAB
-  - E
+  - L
+  - U
   - I
   - A
-  - O
   - '-'
   - ;
   - K
