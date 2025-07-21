@@ -1,40 +1,40 @@
 layout: {zmk_keyboard: glove43tb}
 layers:
   default:
-  - F
+  - ESC
   - Q
-  - Y
-  - O
-  - E
-  - G
-  - J
-  - D
-  - W
-  - B
-  - TAB
   - L
   - U
+  - F
+  - W
+  - R
+  - Y
+  - P
+  - _
+  - TAB
+  - E
   - I
   - A
+  - O
   - '-'
-  - ;
   - K
-  - S
   - T
   - N
+  - S
   - H
+  - ;
   - LEFT SHIFT
   - Z
   - X
   - C
   - V
   - ','
-  - .
+  - G
+  - D
   - M
-  - R
-  - '&mkp MB1'
-  - '&mkp MB2'
-  - P
+  - J
+  - B
+  - .
   - LCTRL
   - LEFT WIN
   - LEFT ALT
