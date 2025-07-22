@@ -38,8 +38,8 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT HENKAN, h: FUNCTION}
-  - {t: INT MUHENKAN, h: NUM}
+  - {t: INT MUHENKAN, h: FUNCTION}
+  - {t: INT HENKAN, h: NUM}
   - {t: '&to_layer_0 SPACE', h: ARROW}
   - BACKSPACE
   - ENTER
