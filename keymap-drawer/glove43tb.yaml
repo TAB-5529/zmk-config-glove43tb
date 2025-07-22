@@ -41,8 +41,8 @@ layers:
   - {t: INT HENKAN, h: FUNCTION}
   - {t: INT MUHENKAN, h: NUM}
   - {t: '&to_layer_0 SPACE', h: ARROW}
-  - ENTER
   - BACKSPACE
+  - ENTER
   - {t: ARROW, h: toggle}
   FUNCTION:
   - {t: ▽, type: trans}
@@ -103,7 +103,7 @@ layers:
   - ''
   - UP ARROW
   - ''
-  - END
+  - \
   - '!'
   - (
   - )
