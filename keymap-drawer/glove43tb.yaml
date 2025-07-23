@@ -148,7 +148,7 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - END
-  - {t: ▽, type: trans}
+  - BT CLR ALL
   - ''
   - ''
   - ''
@@ -160,7 +160,7 @@ layers:
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: BT, h: '0'}
   - ''
   - ''
   - ''
@@ -175,7 +175,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: default, h: toggle}
+  - {t: ARROW, h: toggle}
   MOUSE:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
