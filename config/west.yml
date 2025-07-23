@@ -2,15 +2,15 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    #- name: keebkuro
-      #url-base: https://github.com/keebkuro
+    - name: keebkuro
+      url-base: https://github.com/keebkuro
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: v3.5.0  #mainから更新
+      revision: main  #mainから更新
       import: app/west.yml
     - name: zmk-pmw3610-driver
       remote: keebkuro
-      revision: v3.5.0  #mainから更新
+      revision: main  #mainから更新
   self:
     path: config
